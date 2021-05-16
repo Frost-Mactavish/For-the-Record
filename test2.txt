@@ -1,1 +1,0 @@
-txt intended to test merge funciton of Git
